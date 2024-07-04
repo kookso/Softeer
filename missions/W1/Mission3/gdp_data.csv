@@ -1,0 +1,214 @@
+Country,GDP,Year
+United States,28781083.0,2024
+China,18532633.0,[n 1]2024
+Germany,4591100.0,2024
+Japan,4110452.0,2024
+India,3937011.0,2024
+United Kingdom,3495261.0,2024
+France,3130014.0,2024
+Brazil,2331391.0,2024
+Italy,2328028.0,2024
+Canada,2242182.0,2024
+Russia,2056844.0,2024
+Mexico,2017025.0,2024
+Australia,1790348.0,2024
+South Korea,1760947.0,2024
+Spain,1647114.0,2024
+Indonesia,1475690.0,2024
+Netherlands,1142513.0,2024
+Turkey,1113561.0,2024
+Saudi Arabia,1106015.0,2024
+Switzerland,938458.0,2024
+Poland,844623.0,2024
+Taiwan,802958.0,[n 4]2024
+Belgium,655192.0,2024
+Sweden,623048.0,2024
+Argentina,604260.0,2024
+Ireland,564020.0,2024
+Thailand,548890.0,2024
+Austria,540887.0,2024
+Israel,530664.0,2024
+United Arab Emirates,527796.0,2024
+Norway,526951.0,2024
+Singapore,525228.0,2024
+Philippines,471516.0,2024
+Vietnam,465814.0,2024
+Iran,464181.0,2024
+Bangladesh,455162.0,2024
+Malaysia,445519.0,2024
+Denmark,409989.0,2024
+Hong Kong,406775.0,[n 5]2024
+Colombia,386076.0,2024
+South Africa,373233.0,2024
+Romania,369971.0,2024
+Egypt,347594.0,2024
+Pakistan,338237.0,2023
+Chile,333760.0,2024
+Czech Republic,325880.0,2024
+Finland,308055.0,2024
+Portugal,298949.0,2024
+Kazakhstan,296740.0,2024
+Peru,282458.0,2024
+Algeria,266780.0,2024
+Iraq,265894.0,2024
+New Zealand,257625.0,2024
+Nigeria,252738.0,2024
+Greece,250276.0,2024
+Qatar,244686.0,2024
+Hungary,223413.0,2024
+Ethiopia,205130.0,2024
+Ukraine,188943.0,[n 6]2024
+Kuwait,160397.0,2024
+Morocco,152377.0,2024
+Slovakia,140808.0,2024
+Dominican Republic,127356.0,2024
+Ecuador,121592.0,2024
+Puerto Rico,117763.0,2024
+Guatemala,110035.0,2024
+Oman,108927.0,2024
+Bulgaria,107933.0,2024
+Kenya,104001.0,2024
+Venezuela,102328.0,2024
+Uzbekistan,97956.0,2024
+Costa Rica,96058.0,2024
+Angola,92123.0,2024
+Luxembourg,88556.0,2024
+Croatia,88076.0,2024
+Panama,87347.0,2024
+Ivory Coast,86911.0,2024
+Uruguay,82605.0,2024
+Turkmenistan,81896.0,2024
+Serbia,81873.0,2024
+Lithuania,81170.0,2024
+Tanzania,79605.0,2024
+Azerbaijan,78749.0,2024
+Ghana,75244.0,2024
+Sri Lanka,74846.0,2022
+DR Congo,73761.0,2024
+Slovenia,72101.0,2024
+Belarus,69048.0,2024
+Myanmar,68006.0,2024
+Uganda,56310.0,2024
+Tunisia,54708.0,2024
+Macau,54677.0,[n 9]2024
+Jordan,53570.0,2024
+Cameroon,53205.0,2024
+Bolivia,49334.0,2024
+Libya,48221.0,2024
+Bahrain,46790.0,2024
+Paraguay,45817.0,2024
+Latvia,45466.0,2024
+Cambodia,45150.0,2024
+Nepal,44179.0,2024
+Estonia,43486.0,2024
+Honduras,37355.0,2024
+Senegal,35450.0,2024
+El Salvador,35333.0,2024
+Zimbabwe,34405.0,2024
+Cyprus,34221.0,[n 10]2024
+Iceland,33338.0,2024
+Georgia,32865.0,[n 11]2024
+Papua New Guinea,31716.0,2024
+Zambia,29872.0,2024
+Bosnia and Herzegovina,29078.0,2024
+Trinidad and Tobago,28365.0,2024
+Sudan,26865.0,2024
+Guinea,25447.0,2024
+Albania,25431.0,2024
+Armenia,25408.0,2024
+Haiti,24046.0,2024
+Mozambique,22975.0,2024
+Malta,22737.0,2024
+Mongolia,21943.0,2024
+Burkina Faso,21902.0,2024
+Lebanon,21780.0,2022
+Mali,21662.0,2024
+Botswana,21418.0,2024
+Benin,21371.0,2024
+Guyana,21178.0,2024
+Gabon,21013.0,2024
+Jamaica,20098.0,2024
+Nicaragua,18829.0,2024
+Niger,18816.0,2024
+Chad,18697.0,2024
+Palestine,18602.0,[n 12]2023
+Moldova,18356.0,[n 14]2024
+Yemen,16940.0,2024
+Madagascar,16465.0,2024
+Mauritius,16359.0,2024
+North Macedonia,15873.0,2024
+Brunei,15510.0,2024
+Congo,15501.0,2024
+Laos,15190.0,2024
+Afghanistan,14467.0,2022
+Bahamas,14390.0,2024
+Rwanda,13701.0,2024
+Kyrgyzstan,13599.0,2024
+Tajikistan,12953.0,2024
+Somalia,12804.0,2024
+Namibia,12765.0,2024
+Kosovo,11318.0,2024
+Malawi,11241.0,2024
+Equatorial Guinea,10708.0,2024
+Mauritania,10628.0,2024
+Togo,9832.0,2024
+Montenegro,8010.0,2024
+Maldives,7199.0,2024
+Barbados,6863.0,2024
+South Sudan,6517.0,2024
+Fiji,5801.0,2024
+Eswatini,5085.0,2024
+Liberia,4754.0,2024
+Sierra Leone,4558.0,2024
+Djibouti,4364.0,2024
+Suriname,4337.0,2024
+Aruba,4069.0,2024
+Andorra,3897.0,2024
+Belize,3296.0,2024
+Bhutan,3110.0,2024
+Burundi,3075.0,2024
+Central African Republic,2810.0,2024
+Cape Verde,2718.0,2024
+Gambia,2694.0,2024
+Saint Lucia,2582.0,2024
+Lesotho,2395.0,2024
+Seychelles,2203.0,2024
+Guinea-Bissau,2151.0,2024
+Antigua and Barbuda,2127.0,2024
+San Marino,2033.0,2024
+East Timor,1992.0,2024
+Solomon Islands,1707.0,2024
+Comoros,1422.0,2024
+Grenada,1406.0,2024
+Vanuatu,1289.0,2024
+Saint Kitts and Nevis,1134.0,2024
+Saint Vincent and the Grenadines,1128.0,2024
+Samoa,1024.0,2024
+São Tomé and Príncipe,751.0,2024
+Dominica,708.0,2024
+Tonga,581.0,2024
+Micronesia,484.0,2024
+Kiribati,311.0,2024
+Palau,308.0,2024
+Marshall Islands,305.0,2024
+Nauru,161.0,2024
+Tuvalu,66.0,2024
+Cuba,,—
+North Korea,,—
+New Caledonia,,"9,623"
+Syria,,"8,969"
+Monaco,,"8,784"
+Liechtenstein,,"7,710"
+Bermuda,,"7,546"
+Cayman Islands,,"6,844"
+French Polynesia,,"5,814"
+Greenland,,"3,235"
+Curaçao,,"3,075"
+Eritrea,,—
+Zanzibar,,—
+Sint Maarten,,"1,537"
+British Virgin Islands,,—
+Turks and Caicos Islands,,"1,138"
+Anguilla,,—
+Cook Islands,,—
+Montserrat,,—
