@@ -225,3 +225,12 @@
 2024-Jul-05-00-49-48, Transform Start Region
 2024-Jul-05-00-49-48, Transform End Region
 2024-Jul-05-00-49-48, Load to World_Economies.db
+2024-Jul-09-22-00-38, Extract start
+2024-Jul-09-22-00-38, Transform Start : GDP
+2024-Jul-09-22-00-38, Extract end
+2024-Jul-09-22-00-38, Transform start
+2024-Jul-09-22-00-39, Extract:Region
+2024-Jul-09-22-00-39, saved_json_file
+2024-Jul-09-22-00-39, Load to DB start
+2024-Jul-09-22-00-39, Load to DB end
+2024-Jul-09-22-00-39, Load to World_Economies.db
